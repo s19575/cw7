@@ -47,8 +47,7 @@ namespace Cw7
                 {
                     Title = "Students API",
                     Version = "v1",
-                    Description = "Students API prepared by Paweł Rutkowski (s18277) for purposes of APBD.",
-                    Contact = new OpenApiContact {Name = "Paweł Rutkowski s18277"}
+                    Contact = new OpenApiContact {Name = "Konstantsin Puchko s19575"}
                 });
             });
         }
